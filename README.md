@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Sreyas 👋
 
-<!--
-**RoX-HaN/RoX-HaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Student | Builder | Dreamer  
+🛠️ Into Arduino, CNC & Linux  
+📍 Just figuring life out  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+Not perfect, just improving daily  
+Trying to get better every day  
+Creating > consuming  
+
+---
+
+## 🚀 What I'm Doing
+- Building projects (EduPlot Mini 👀)  
+- Learning programming step by step  
+- Working on discipline & self growth  
+
+---
+
+## 🛠️ Tech I'm Exploring
+- C++  
+- Python  
+- Arduino  
+- Linux  
+
+---
+
+## 📈 Journey
+Student life + self growth  
+Watch me build something big 👀  
+This is my journey 📍  
+
+---
+
+## ⚡ Fun Fact
+Started from confusion, building towards clarity.
