@@ -44,7 +44,7 @@ Watch me build something big 👀
 ---
 
 ## 📊 GitHub Stats
-![Sreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoX-HaN&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RoX-HaN&show_icons=true&theme=tokyonight)
 
 ---
 
